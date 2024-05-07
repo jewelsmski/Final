@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Jewels\\Downloads\\CIS-234\\final\\Final\\FinalApp\\FinalApp.csproj": {}
+    "C:\\Users\\Jewels\\Downloads\\CIS-234\\final\\Final\\FinalApp\\FinalApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Jewels\\Downloads\\CIS-234\\final\\Final\\FinalApp\\FinalApp.csproj": {
+    "C:\\Users\\Jewels\\Downloads\\CIS-234\\final\\Final\\FinalApp\\FinalApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Jewels\\Downloads\\CIS-234\\final\\Final\\FinalApp\\FinalApp.csproj",
+        "projectUniqueName": "C:\\Users\\Jewels\\Downloads\\CIS-234\\final\\Final\\FinalApp\\FinalApp.csproj",
         "projectName": "FinalApp",
-        "projectPath": "c:\\Users\\Jewels\\Downloads\\CIS-234\\final\\Final\\FinalApp\\FinalApp.csproj",
+        "projectPath": "C:\\Users\\Jewels\\Downloads\\CIS-234\\final\\Final\\FinalApp\\FinalApp.csproj",
         "packagesPath": "C:\\Users\\Jewels\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Jewels\\Downloads\\CIS-234\\final\\Final\\FinalApp\\obj\\",
+        "outputPath": "C:\\Users\\Jewels\\Downloads\\CIS-234\\final\\Final\\FinalApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

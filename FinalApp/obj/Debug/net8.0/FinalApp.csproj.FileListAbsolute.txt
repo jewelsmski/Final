@@ -12,3 +12,4 @@ C:\Users\Jewels\Downloads\CIS-234\final\Final\FinalApp\obj\Debug\net8.0\refint\F
 C:\Users\Jewels\Downloads\CIS-234\final\Final\FinalApp\obj\Debug\net8.0\FinalApp.pdb
 C:\Users\Jewels\Downloads\CIS-234\final\Final\FinalApp\obj\Debug\net8.0\FinalApp.genruntimeconfig.cache
 C:\Users\Jewels\Downloads\CIS-234\final\Final\FinalApp\obj\Debug\net8.0\ref\FinalApp.dll
+C:\Users\Jewels\Downloads\CIS-234\final\Final\FinalApp\obj\Debug\net8.0\FinalApp.sourcelink.json
