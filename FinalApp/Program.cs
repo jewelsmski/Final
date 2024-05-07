@@ -6,7 +6,6 @@ namespace FinalApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is an age calculator.");
             Console.WriteLine("What is your birthday? (YYYY-MM-DD):");
 
             DateTime birthday;
