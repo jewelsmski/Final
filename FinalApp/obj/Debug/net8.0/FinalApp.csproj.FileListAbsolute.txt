@@ -1,0 +1,14 @@
+C:\Users\Jewels\Downloads\CIS-234\final\Final\FinalApp\bin\Debug\net8.0\FinalApp.exe
+C:\Users\Jewels\Downloads\CIS-234\final\Final\FinalApp\bin\Debug\net8.0\FinalApp.deps.json
+C:\Users\Jewels\Downloads\CIS-234\final\Final\FinalApp\bin\Debug\net8.0\FinalApp.runtimeconfig.json
+C:\Users\Jewels\Downloads\CIS-234\final\Final\FinalApp\bin\Debug\net8.0\FinalApp.dll
+C:\Users\Jewels\Downloads\CIS-234\final\Final\FinalApp\bin\Debug\net8.0\FinalApp.pdb
+C:\Users\Jewels\Downloads\CIS-234\final\Final\FinalApp\obj\Debug\net8.0\FinalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jewels\Downloads\CIS-234\final\Final\FinalApp\obj\Debug\net8.0\FinalApp.AssemblyInfoInputs.cache
+C:\Users\Jewels\Downloads\CIS-234\final\Final\FinalApp\obj\Debug\net8.0\FinalApp.AssemblyInfo.cs
+C:\Users\Jewels\Downloads\CIS-234\final\Final\FinalApp\obj\Debug\net8.0\FinalApp.csproj.CoreCompileInputs.cache
+C:\Users\Jewels\Downloads\CIS-234\final\Final\FinalApp\obj\Debug\net8.0\FinalApp.dll
+C:\Users\Jewels\Downloads\CIS-234\final\Final\FinalApp\obj\Debug\net8.0\refint\FinalApp.dll
+C:\Users\Jewels\Downloads\CIS-234\final\Final\FinalApp\obj\Debug\net8.0\FinalApp.pdb
+C:\Users\Jewels\Downloads\CIS-234\final\Final\FinalApp\obj\Debug\net8.0\FinalApp.genruntimeconfig.cache
+C:\Users\Jewels\Downloads\CIS-234\final\Final\FinalApp\obj\Debug\net8.0\ref\FinalApp.dll
